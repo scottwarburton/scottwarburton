@@ -2,7 +2,7 @@ Hi there 👋
 
 Here are a few things about me:
 
-- 🔭 I’m currently working on building my personal website
+- 🔭 I’m currently working on building my personal website (scottwarburton.com.au)
 - 🌱 I’m currently learning React, Django and Flask frameworks
 - :chart_with_upwards_trend: I built a simple web app to build and track a stock portfolio, check it out https://flaskprojectsw.herokuapp.com
 - 📫 How to reach me: Here at my GitHub page github.com/scottwarburton
